@@ -1,0 +1,10 @@
+{
+  "heading": "Featured this week",
+  "items": [
+    { "title": "Massaman Curry", "blurb": "Deep, warm, slow-cooked comfort.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/massaman-curry/" },
+    { "title": "Thai Basil Chicken", "blurb": "Salty, spicy and ready fast.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-basil-chicken-stir-fry/" },
+    { "title": "Pad See Ew", "blurb": "Chewy noodles, caramelised edges.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/" },
+    { "title": "Chicken Laab", "blurb": "Fresh, punchy, herb-packed.", "source": "@cassyeungmoney", "link": "https://www.tiktok.com/@cassyeungmoney/video/7698527742169566494" },
+    { "title": "Katsu Chicken Bowls", "blurb": "Crispy chicken, rice and kewpie.", "source": "@aleishabyrne", "link": "https://www.tiktok.com/@aleishabyrne/video/7628883046753750293" }
+  ]
+}
