@@ -1,10 +1,28 @@
 {
   "heading": "Featured this week",
   "items": [
-    { "title": "Massaman Curry", "blurb": "Deep, warm, slow-cooked comfort.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/massaman-curry/" },
-    { "title": "Thai Basil Chicken", "blurb": "Salty, spicy and ready fast.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-basil-chicken-stir-fry/" },
-    { "title": "Pad See Ew", "blurb": "Chewy noodles, caramelised edges.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/" },
-    { "title": "Chicken Laab", "blurb": "Fresh, punchy, herb-packed.", "source": "@cassyeungmoney", "link": "https://www.tiktok.com/@cassyeungmoney/video/7698527742169566494" },
-    { "title": "Katsu Chicken Bowls", "blurb": "Crispy chicken, rice and kewpie.", "source": "@aleishabyrne", "link": "https://www.tiktok.com/@aleishabyrne/video/7628883046753750293" }
+    {"title": "Korean Beef Bulgogi", "blurb": "Sweet, savoury and charred.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/korean-beef-bulgogi/", "tags": ["korean", "quick"]},
+    {"title": "Garlic Prawns", "blurb": "Sizzling in garlic butter.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/garlic-prawns/", "tags": ["seafood", "quick"]},
+    {"title": "Carbonara", "blurb": "Silky, and no cream needed.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/carbonara/", "tags": ["italian", "quick"]},
+    {"title": "Butter Chicken", "blurb": "Rich, mild and creamy.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/butter-chicken/", "tags": ["indian"]},
+    {"title": "Chicken Laab", "blurb": "Fresh, punchy, herb-packed.", "source": "@cassyeungmoney", "link": "https://www.tiktok.com/@cassyeungmoney/video/7698527742169566494", "tags": ["thai", "quick", "healthy"]},
+    {"title": "Chicken Fajitas", "blurb": "Smoky, fast and hands-on.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/chicken-fajitas/", "tags": ["mexican", "quick"]},
+    {"title": "Mushroom Risotto", "blurb": "Creamy, earthy, meat-free.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/mushroom-risotto/", "tags": ["italian", "vegetarian"]},
+    {"title": "Japchae", "blurb": "Glass noodles, veg and sesame.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/japchae/", "tags": ["korean"]},
+    {"title": "Baked Salmon", "blurb": "Ten minutes of prep, done.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/baked-salmon/", "tags": ["seafood", "healthy", "quick"]},
+    {"title": "Dal", "blurb": "Cheap, cosy and good for you.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/dal/", "tags": ["indian", "vegetarian", "healthy", "mealprep"]},
+    {"title": "Thai Green Curry", "blurb": "Fragrant, creamy, from scratch.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-green-curry/", "tags": ["thai"]},
+    {"title": "Katsu Chicken Bowls", "blurb": "Crispy chicken, rice and kewpie.", "source": "@aleishabyrne", "link": "https://www.tiktok.com/@aleishabyrne/video/7628883046753750293", "tags": ["quick"]},
+    {"title": "Lasagna", "blurb": "Big tray, feeds everyone.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/lasagna/", "tags": ["italian", "mealprep"]},
+    {"title": "Creamy Garlic Prawns", "blurb": "Rich sauce in fifteen minutes.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/creamy-garlic-prawns/", "tags": ["seafood", "quick"]},
+    {"title": "Chicken Tikka Masala", "blurb": "Charred chicken, spiced sauce.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/chicken-tikka-masala/", "tags": ["indian"]},
+    {"title": "Honey Garlic Chicken", "blurb": "Sticky, sweet and weeknight-easy.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/honey-garlic-chicken/", "tags": ["quick", "mealprep"]},
+    {"title": "Massaman Curry", "blurb": "Deep, warm, slow-cooked comfort.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/massaman-curry/", "tags": ["thai"]},
+    {"title": "Spaghetti Bolognese", "blurb": "The one everyone needs.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/spaghetti-bolognese/", "tags": ["italian", "mealprep"]},
+    {"title": "Thai Basil Chicken", "blurb": "Salty, spicy and ready fast.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-basil-chicken-stir-fry/", "tags": ["thai", "quick"]},
+    {"title": "Chocolate Cake", "blurb": "Moist, easy, one bowl.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/chocolate-cake/", "tags": ["baking", "desserts"]},
+    {"title": "Pad See Ew", "blurb": "Chewy noodles, caramelised edges.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/", "tags": ["thai", "quick"]},
+    {"title": "Banana Bread", "blurb": "Use up those brown bananas.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/banana-bread/", "tags": ["baking"]},
+    {"title": "Chocolate Chip Cookies", "blurb": "Crisp edges, chewy middles.", "source": "RecipeTin Eats", "link": "https://www.recipetineats.com/chocolate-chip-cookies/", "tags": ["baking", "desserts"]}
   ]
 }

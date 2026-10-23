@@ -12,6 +12,9 @@ Phones pick up changes the next time the app is opened. No app update needed.
 
    - `link` can be a recipe website, TikTok, Instagram Reel or YouTube video.
    - Optional: `"image": "https://link-to-a-photo.jpg"`. Without it, the photo comes from the recipe page.
+   - Optional: `"tags": ["korean", "quick"]`. People who picked those in "What do you love to cook?" see the recipe
+     first. Use any of: quick, korean, italian, thai, mexican, indian, healthy, vegetarian, seafood, baking,
+     desserts, mealprep.
    - `heading` at the top is the title shown above the row.
 4. Click "Commit changes". It goes live in about a minute.
 
